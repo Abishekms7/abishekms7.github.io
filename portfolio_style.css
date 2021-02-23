@@ -101,9 +101,7 @@ body {
   @media (max-width: 768px) {
     #hero{
       align-items: center;
-      background: url("mobile.png") top center;
       background-size: cover;
-
     }
     #hero h1 {
       font-size: 28px;
